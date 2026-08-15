@@ -4,6 +4,8 @@
 
 **Bilan : 16 constats, dont 4 bloquants avant tout lancement public (B1–B4).** Aucun n'empêche de continuer le prototypage.
 
+**Mise à jour 15/08/2026 (prototype v5)** — Clôturés : B2 (lexique purgé de l'UI), constat 4 (réponse avant lecture dans « Je reçois »), constat 16b (vouvoiement). Implémentés à titre de prototype et à durcir côté serveur : B3 (refus de reformuler un contenu coercitif) et B4 (orientation 3919/3114/17 en situation de danger) — un garde-fou côté client reste contournable, cf. constat 11. Restent ouverts : B1 (marque), B3/B4 côté serveur, constats 5, 10, 11, 12, 13, 14, 15, 16a/16c.
+
 ---
 
 ## 1. Directeur de marque / juridique marque
