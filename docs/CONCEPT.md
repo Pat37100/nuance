@@ -1,6 +1,8 @@
 # Nuance — Concept
 
-*Version 1 — 15 août 2026. Document de référence produit.*
+*Version 2 — 16 août 2026. Document de référence produit.*
+
+> **Alerte nom.** « Nuance » est une marque déposée de Nuance Communications (Microsoft), en classe 9 — la classe des applications. « Nuance » ne doit être utilisé que comme **nom de travail interne**. Voir `docs/POSITIONNEMENT.md` § 5. Le symbole, lui, survit à un changement de nom.
 
 ## Vision
 
@@ -40,11 +42,17 @@ Je colle un message reçu qui me met en difficulté. Nuance me propose d'abord *
 4. **Confidentialité par construction.** Rien n'est stocké par défaut. Pas d'historique sans opt-in explicite. Voir AUDIT.md § RGPD.
 5. **Prudence sur autrui.** Toute lecture du message d'un tiers est une hypothèse, dite comme telle.
 
-## Cas d'usage cibles
+## Cible : tout le monde
 
-- **Pro** : recadrer, refuser, négocier, relancer, annoncer une décision difficile.
-- **Perso** : couple, famille (dont adolescents), voisinage, amis.
-- **Situations sensibles** : excuses, condoléances, annonces difficiles.
+Décision arrêtée : la cible est le **grand public**, pas un segment professionnel. Toute personne qui a du mal à dire les choses, ou du mal à comprendre ce que l'autre veut vraiment dire. Couple, famille, amis, voisinage — et accessoirement le travail, mais ce n'est pas l'angle.
+
+Cas d'usage : refuser, recadrer, demander, s'excuser, relancer, annoncer une nouvelle difficile, répondre à un message blessant.
+
+## Le registre de réception (différenciateur central)
+
+Les concurrents règlent le **ton**. Nuance règle en plus la **langue de réception** : un message parfaitement formulé peut manquer sa cible parce qu'il parle une langue que le destinataire n'entend pas.
+
+Cinq registres, proposés en langage courant et facultatifs : reconnaissance, concret, temps partagé, réassurance du lien, autonomie. Inspirés de travaux connus sur les différences de réception, **jamais nommés comme tels dans l'interface**. Détail et réserves dans `docs/POSITIONNEMENT.md` § 2.
 
 ## Universalité (« plug sur tout type de message »)
 
