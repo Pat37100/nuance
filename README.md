@@ -1,5 +1,7 @@
 # Nuance
 
+> **État au 17/08/2026.** « Nuance » est un **nom de travail** : la marque est déposée par Nuance Communications (Microsoft) en classe 9. Rien n'est déployé. Les prototypes ne fonctionnent que dans l'environnement de conception, pas depuis ce dépôt. Voir `docs/AUDIT4.md`.
+
 **Dire les choses avec justesse.**
 
 Assistant d'écriture pour les messages délicats. Il rend votre propre message retouché au minimum (les ajustements sont surlignés, le reste ce sont vos mots), avec un curseur pour aller plus loin si besoin — et il aide à prendre du recul sur un message reçu avant d'y répondre.
